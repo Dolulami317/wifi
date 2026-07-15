@@ -1,7 +1,0 @@
-pandas
-numpy
-streamlit
-folium
-streamlit-folium
-requests
-streamlit-js-eval
